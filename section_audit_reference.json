@@ -1,0 +1,42 @@
+{
+  ".text": {
+    "rva": 4096,
+    "size": 15097344,
+    "sha256": "e31a5c2b2d7c74a5931d2da60b11db856764b36d9155a6a77bfaa1a301554144"
+  },
+  ".rdata": {
+    "rva": 15101952,
+    "size": 6844416,
+    "sha256": "f3de9df3a073a1d4ce6d61508c6f3766ab3395ee79da127067be80b5c652f204"
+  },
+  ".data": {
+    "rva": 21946368,
+    "size": 337408,
+    "sha256": "e9c7f11bbfd74957421d697704ff36bda96e49e088f4506cbdc62a420895f3b3"
+  },
+  ".pdata": {
+    "rva": 25874432,
+    "size": 598016,
+    "sha256": "5b60ab1c7b8169b244b6dcffdf2a28de447a5246b6049f8a4fef6e2c31ab898b"
+  },
+  ".gfids": {
+    "rva": 26472448,
+    "size": 512,
+    "sha256": "bca378a61d98cb6be76c1d67cf14eab3ed06188d67a25b71ee20c6753f4ed41a"
+  },
+  ".tls": {
+    "rva": 26476544,
+    "size": 512,
+    "sha256": "4c6474903705cb450bb6434c29e8854f17d8324efca1fdb9ee9008599060883a"
+  },
+  ".rsrc": {
+    "rva": 26480640,
+    "size": 338432,
+    "sha256": "727212ce8300f846139f15df24591ea91fa69435424795bb2648cfbc828b70ac"
+  },
+  ".reloc": {
+    "rva": 26820608,
+    "size": 202240,
+    "sha256": "128d99ac80fbbc952bc2c88d58a1a3065b36e3bbfa8d208efc7b81f9d50f890a"
+  }
+}
